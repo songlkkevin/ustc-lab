@@ -1,7 +1,7 @@
 ---
 layout: default
-permalink: /reading group/
-title: reading group
+permalink: /blog/
+title: blog
 nav: true
 nav_order: 4
 pagination:
