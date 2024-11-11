@@ -111,6 +111,8 @@ html[data-theme="dark"] {
   --global-danger-block-text: #600;
   --global-danger-block-title: #c00;
 
+  --category-font-color: #212529;
+
   .repo-img-light {
     display: none;
   }
@@ -154,4 +156,8 @@ html[data-theme-setting="light"] {
     padding-top: 12px;
     display: block;
   }
+}
+
+.category {
+  color: var(--category-font-color) !important;
 }
